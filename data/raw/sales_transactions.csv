@@ -1,0 +1,524 @@
+TransactionID,TransactionDate,StoreID,ProductName,Category,Quantity,UnitPrice,CustomerEmail,PaymentMethod
+TXN10424,2024/03/13,s003,winter jacket,Apparel,1.0,174.04,CUSTOMER424@EXAMPLE.COM,Debit Card
+TXN10066,05/02/2024,HARBOR POINT,Running Shoes,Apparel,8.0,34.75,CUSTOMER66@EXAMPLE.COM,Credit Card
+TXN10162,02/18/2024,Harbor Point,sunscreen spf50,Beauty,6.0,$26.25,customer162@example.com,CASH
+TXN10101,2024-03-02,westfield mall,coffee maker,Home & Kitchen,5.0,76,CUSTOMER101@EXAMPLE.COM,Debit Card
+TXN10359,2024/04/01,HARBOR POINT,  Non-stick Pan  ,Home & Kitchen,6.0,23.63 USD,CUSTOMER359@EXAMPLE.COM,
+TXN10355,13-Oct-2024,DOWNTOWN FLAGSHIP,  Wireless Earbuds  ,Electronics,5.0,$182.90,  customer355@example.com  ,cash
+TXN10132,2024/04/05, Westfield Mall ,lip balm,Beauty,2.0,11.35,,CASH
+TXN10003,2024-07-12, Sunset Center ,  Sunscreen SPF50  ,Beauty,2.0,243.41 USD,CUSTOMER3@EXAMPLE.COM,
+TXN10344,03/28/2024,sunset center,WINTER JACKET,Apparel,8.0,$217.49,,credit card
+TXN10118,2024-06-27,downtown flagship,Winter Jacket,Apparel,4.0,205.09 USD,CUSTOMER118@EXAMPLE.COM,cash
+TXN10065,2024/07/04,s004,board game,Toys,1.0,$50.96,,Debit Card
+TXN10324,04/17/2024,s002,wireless earbuds,Electronics,1.0,$158.60,  customer324@example.com  ,
+TXN10431,23-Mar-2024, Downtown Flagship ,WIRELESS EARBUDS,Electronics,7.0,248.47 USD,customer431@example.com,Credit Card
+TXN10485,2024-02-24,westfield mall,GREEN TEA,Grocery,2.0,$205.36,  customer485@example.com  ,CASH
+TXN10246,02/22/2024,S005,Green Tea,Grocery,4.0,$28.21,CUSTOMER246@EXAMPLE.COM,credit card
+TXN10051,2024/09/08,S004,Sunscreen SPF50,Beauty,4.0,174,CUSTOMER51@EXAMPLE.COM,CASH
+TXN10387,2024-01-31,SUNSET CENTER,ORGANIC COFFEE,Grocery,6.0,233.06,CUSTOMER387@EXAMPLE.COM,cash
+TXN10440,29-Feb-2024,s002,  Hand Cream  ,Beauty,7.0,50.91 USD,  customer440@example.com  ,Credit Card
+TXN10115,08/17/2024, Westfield Mall ,PASTA PACK,Grocery,8.0,155,CUSTOMER115@EXAMPLE.COM,CASH
+TXN10138,22-Sep-2024,S002,  Running Shoes  ,Apparel,6.0,237.13 USD,CUSTOMER138@EXAMPLE.COM,
+TXN10244,25-Aug-2024,S003,USB Cable,Electronics,4.0,115.72 USD,customer244@example.com,credit card
+TXN10280,2024/05/20,riverside plaza,  Bluetooth Speaker  ,Electronics,5.0,$179.62,  customer280@example.com  ,CASH
+TXN10089,2024-05-15,Sunset Center,coffee maker,Home & Kitchen,6.0,8.87,  customer89@example.com  ,cash
+TXN10467,2024/03/19,riverside plaza,building blocks,Toys,2.0,242,CUSTOMER467@EXAMPLE.COM,credit card
+TXN10327,07-Feb-2024, Downtown Flagship ,Hand Cream,Beauty,1.0,176.72 USD,customer327@example.com,CASH
+TXN10433,2024-02-25,westfield mall,  Green Tea  ,Grocery,4.0,154.95 USD,,Debit Card
+TXN10310,09/15/2024,downtown flagship,Hand Cream,Beauty,8.0,117.06,  customer310@example.com  ,Debit Card
+TXN10067,29-May-2024,westfield mall,organic coffee,Grocery,8.0,$233.50,  customer67@example.com  ,Debit Card
+TXN10216,2024-09-20,Riverside Plaza,lip balm,Beauty,5.0,238.34 USD,CUSTOMER216@EXAMPLE.COM,
+TXN10443,2024/08/23,s002,USB Cable,Electronics,,182.52,customer443@example.com,CASH
+TXN10270,2024-02-04,riverside plaza,wool socks,Apparel,6.0,228.15 USD,  customer270@example.com  ,Credit Card
+TXN10023,12-Aug-2024, Westfield Mall ,Non-stick Pan,Home & Kitchen,6.0,74.82 USD,customer23@example.com,credit card
+TXN10326,2024/07/26,HARBOR POINT,Running Shoes,Apparel,7.0,115.53,customer326@example.com,
+TXN10142,07-Mar-2024, Riverside Plaza ,Running Shoes,Apparel,6.0,244,customer142@example.com,CASH
+TXN10188,2024-06-10,Sunset Center,PHONE CHARGER,Electronics,1.0,49,customer188@example.com,CASH
+TXN10013,2024-06-22, Downtown Flagship ,BOARD GAME,Toys,4.0,60.05,customer13@example.com,
+TXN10097,04/02/2024, Riverside Plaza ,running shoes,Apparel,6.0,91.00,customer97@example.com,
+TXN10154,2024/04/16,WESTFIELD MALL,rc car,Toys,5.0,193.94 USD,,Credit Card
+TXN10165,08/29/2024,Riverside Plaza,Green Tea,Grocery,7.0,176.98 USD,customer165@example.com,Debit Card
+TXN10032,2024/06/16,s005,  Phone Charger  ,Electronics,5.0,$168.39,  customer32@example.com  ,
+TXN10220,2024-01-25,S005,puzzle set,Toys,,$198.13,  customer220@example.com  ,cash
+TXN10388,08/12/2024,S005,running shoes,Apparel,6.0,$202.35,,Credit Card
+TXN10321,19-Apr-2024,DOWNTOWN FLAGSHIP,  Board Game  ,Toys,6.0,59,customer321@example.com,Credit Card
+TXN10342,2024/03/23,S004,SMART WATCH,Electronics,8.0,$56.62,CUSTOMER342@EXAMPLE.COM,
+TXN10202,2024/07/19,s005,HAND CREAM,Beauty,4.0,114.22,  customer202@example.com  ,Credit Card
+TXN10055,13-Aug-2024,Downtown Flagship,Organic Coffee,Grocery,5.0,120,customer55@example.com,Credit Card
+TXN10268,08/31/2024,sunset center,  Smart Watch  ,Electronics,7.0,241.58,CUSTOMER268@EXAMPLE.COM,Credit Card
+TXN10050,12-May-2024,WESTFIELD MALL,  Pasta Pack  ,Grocery,8.0,$56.97,customer50@example.com,credit card
+TXN10386,2024/10/24,s002,SMART WATCH,Electronics,1.0,242.36,CUSTOMER386@EXAMPLE.COM,credit card
+TXN10025,07-Mar-2024,Riverside Plaza,sunscreen spf50,Beauty,1.0,6,customer25@example.com,Credit Card
+TXN10378,2024/08/11,Westfield Mall,RC CAR,Toys,7.0,221,  customer378@example.com  ,credit card
+TXN10498,05/06/2024,RIVERSIDE PLAZA,granola bars,Grocery,1.0,$183.85,customer498@example.com,cash
+,,,,,,,,
+TXN10410,2024/05/12, Westfield Mall ,WOOL SOCKS,Apparel,4.0,138.87,  customer410@example.com  ,Debit Card
+TXN10380,09/08/2024,HARBOR POINT,Non-stick Pan,Home & Kitchen,8.0,71.67,CUSTOMER380@EXAMPLE.COM,Credit Card
+TXN10389,09/07/2024, Sunset Center ,GRANOLA BARS,Grocery,5.0,137.97 USD,  customer389@example.com  ,CASH
+TXN10445,2024-02-28, Riverside Plaza ,Face Moisturizer,Beauty,3.0,43.59 USD,,CASH
+TXN10416,03/11/2024,Sunset Center,  LED Lamp  ,Home & Kitchen,3.0,$55.66,  customer416@example.com  ,credit card
+TXN10273,17-May-2024,S002,  Pasta Pack  ,Grocery,1.0,187.71 USD,,CASH
+TXN10146,01/27/2024,HARBOR POINT,  Lip Balm  ,Beauty,6.0,16,,Debit Card
+TXN10271,03/17/2024, Sunset Center ,Hand Cream,Beauty,7.0,32.57,,Debit Card
+TXN10256,21-Jun-2024,RIVERSIDE PLAZA,NON-STICK PAN,Home & Kitchen,7.0,149,  customer256@example.com  ,
+TXN10040,2024/08/03, Harbor Point ,Cutting Board,Home & Kitchen,7.0,20,  customer40@example.com  ,Credit Card
+TXN10322,2024-05-04,s004,  Lip Balm  ,Beauty,4.0,226.60,  customer322@example.com  ,CASH
+TXN10426,18-Aug-2024,S002,throw pillow,Home & Kitchen,2.0,$27.34,  customer426@example.com  ,Debit Card
+TXN10243,2024-03-10,Westfield Mall,Pasta Pack,Grocery,2.0,236,,cash
+TXN10259,05/15/2024,Downtown Flagship,Coffee Maker,Home & Kitchen,6.0,114.42,customer259@example.com,Credit Card
+TXN10082,2024/05/14,s005,  Phone Charger  ,Electronics,2.0,$116.42,  customer82@example.com  ,Credit Card
+TXN10248,2024/10/20,s001,non-stick pan,Home & Kitchen,8.0,17,  customer248@example.com  ,credit card
+TXN10221,06/03/2024,WESTFIELD MALL,Smart Watch,Electronics,3.0,221.13 USD,customer221@example.com,CASH
+TXN10217,2024/07/20,Westfield Mall,  Denim Jeans  ,Apparel,6.0,208,  customer217@example.com  ,Credit Card
+TXN10113,09/05/2024,Westfield Mall,THROW PILLOW,Home & Kitchen,4.0,88.72 USD,customer113@example.com,Debit Card
+TXN10482,03-Oct-2024,westfield mall,usb cable,Electronics,8.0,100.25,customer482@example.com,CASH
+TXN10468,2024-02-29,Downtown Flagship,rc car,Toys,5.0,190.09 USD,  customer468@example.com  ,
+TXN10232,29-Jan-2024,s004,COTTON T-SHIRT,Apparel,2.0,$116.08,customer232@example.com,credit card
+TXN10213,17-May-2024, Harbor Point ,Green Tea,Grocery,2.0,145,CUSTOMER213@EXAMPLE.COM,cash
+TXN10485,2024-02-24,westfield mall,GREEN TEA,Grocery,2.0,$205.36,  customer485@example.com  ,CASH
+TXN10187,2024-06-18, Downtown Flagship ,Bluetooth Speaker,Electronics,8.0,212,,Credit Card
+TXN10370,2024/06/21,s004,rc car,Toys,3.0,217.72,customer370@example.com,credit card
+TXN10236,2024/01/19,Harbor Point,  Pasta Pack  ,Grocery,3.0,48.85 USD,,Credit Card
+TXN10159,2024-03-31,westfield mall,face moisturizer,Beauty,7.0,221.15 USD,customer159@example.com,Credit Card
+TXN10357,04-May-2024,harbor point,rc car,Toys,7.0,142.98,  customer357@example.com  ,Credit Card
+TXN10237,2024-09-21,downtown flagship,RC Car,Toys,1.0,48.94 USD,,CASH
+TXN10179,2024/07/03,sunset center,Granola Bars,Grocery,6.0,81,,credit card
+TXN10090,2024-04-23,s005,  Cutting Board  ,Home & Kitchen,2.0,115.74,customer90@example.com,cash
+TXN10479,2024-09-03, Sunset Center ,  Organic Coffee  ,Grocery,4.0,5.81 USD,  customer479@example.com  ,Credit Card
+TXN10420,2024-04-25,harbor point,Granola Bars,Grocery,3.0,45,CUSTOMER420@EXAMPLE.COM,
+TXN10060,18-Oct-2024,downtown flagship,Cotton T-Shirt,Apparel,3.0,199.19 USD,  customer60@example.com  ,CASH
+TXN10235,2024-10-20,Westfield Mall,Running Shoes,Apparel,5.0,194.47,CUSTOMER235@EXAMPLE.COM,Credit Card
+TXN10476,2024/04/12,Downtown Flagship,winter jacket,Apparel,8.0,245,CUSTOMER476@EXAMPLE.COM,Debit Card
+TXN10376,2024/07/06,WESTFIELD MALL,GREEN TEA,Grocery,2.0,113.26,CUSTOMER376@EXAMPLE.COM,CASH
+TXN10264,2024/01/02,S004,  Stuffed Bear  ,Toys,3.0,18,CUSTOMER264@EXAMPLE.COM,Credit Card
+TXN10245,2024-07-21,s001,  Coffee Maker  ,Home & Kitchen,4.0,$242.26,customer245@example.com,cash
+TXN10486,10/21/2024,RIVERSIDE PLAZA,SUNSCREEN SPF50,Beauty,2.0,$244.08,,Credit Card
+TXN10341,04/05/2024,SUNSET CENTER,Cotton T-Shirt,Apparel,5.0,57,,
+TXN10367,02-Jun-2024, Sunset Center ,Olive Oil,Grocery,6.0,$197.41,customer367@example.com,credit card
+TXN10120,10-Jan-2024,Sunset Center,GRANOLA BARS,Grocery,1.0,227,customer120@example.com,CASH
+TXN10466,2024/03/18,SUNSET CENTER,WIRELESS EARBUDS,Electronics,3.0,$227.98,  customer466@example.com  ,credit card
+TXN10474,09-May-2024,westfield mall,Hand Cream,Beauty,2.0,175.44 USD,  customer474@example.com  ,
+TXN10109,2024-06-24, Westfield Mall ,GREEN TEA,Grocery,1.0,115,  customer109@example.com  ,Debit Card
+TXN10145,28-Aug-2024, Downtown Flagship ,Non-stick Pan,Home & Kitchen,5.0,126,CUSTOMER145@EXAMPLE.COM,CASH
+TXN10164,31-May-2024, Harbor Point ,COFFEE MAKER,Home & Kitchen,5.0,$174.12,  customer164@example.com  ,credit card
+TXN10173,01/29/2024, Harbor Point ,  Smart Watch  ,Electronics,4.0,137.24 USD,,credit card
+TXN10318,02/08/2024,Harbor Point,Running Shoes,Apparel,3.0,246,,Debit Card
+TXN10030,10-Aug-2024,s002,  Phone Charger  ,Electronics,5.0,14.37,  customer30@example.com  ,Debit Card
+TXN10022,2024-02-07,riverside plaza,Olive Oil,Grocery,8.0,$82.46,,credit card
+TXN10277,2024-03-04,Sunset Center,  LED Lamp  ,Home & Kitchen,7.0,161,CUSTOMER277@EXAMPLE.COM,cash
+TXN10031,10/02/2024,DOWNTOWN FLAGSHIP,running shoes,Apparel,7.0,5.41 USD,,
+TXN10306,06/04/2024,s005,organic coffee,Grocery,1.0,207.35 USD,customer306@example.com,credit card
+TXN10020,2024-09-17,Sunset Center,Green Tea,Grocery,3.0,$18.94,  customer20@example.com  ,Credit Card
+TXN10483,2024/09/24,s001,PHONE CHARGER,Electronics,7.0,$33.96,customer483@example.com,Credit Card
+TXN10052,2024/06/25,s003,  Hand Cream  ,Beauty,8.0,141,,CASH
+TXN10031,10/02/2024,DOWNTOWN FLAGSHIP,running shoes,Apparel,7.0,5.41 USD,,
+TXN10429,2024/08/31,harbor point,usb cable,Electronics,4.0,58.13,CUSTOMER429@EXAMPLE.COM,Debit Card
+TXN10228,2024/05/03,s002,Face Moisturizer,Beauty,8.0,99.54,,CASH
+TXN10261,2024-05-13,S001,  Organic Coffee  ,Grocery,5.0,10,CUSTOMER261@EXAMPLE.COM,
+TXN10368,13-May-2024,DOWNTOWN FLAGSHIP,  LED Lamp  ,Home & Kitchen,8.0,187,customer368@example.com,CASH
+TXN10056,15-Oct-2024,S001,GRANOLA BARS,Grocery,1.0,42,CUSTOMER56@EXAMPLE.COM,Debit Card
+TXN10457,2024-05-24,Downtown Flagship,building blocks,Toys,6.0,32,,
+TXN10002,2024-06-21,S003,pasta pack,Grocery,3.0,57.75 USD,,Credit Card
+TXN10493,15-Aug-2024,downtown flagship,GREEN TEA,Grocery,2.0,224.29 USD,CUSTOMER493@EXAMPLE.COM,Credit Card
+TXN10058,2024-10-09,Downtown Flagship,Running Shoes,Apparel,3.0,64,,Credit Card
+TXN10452,2024/08/08, Riverside Plaza ,  Organic Coffee  ,Grocery,4.0,$204.41,CUSTOMER452@EXAMPLE.COM,
+TXN10253,11-Jun-2024, Riverside Plaza ,Board Game,Toys,3.0,48.14 USD,CUSTOMER253@EXAMPLE.COM,Debit Card
+TXN10442,09/13/2024,Sunset Center,  Smart Watch  ,Electronics,1.0,200.76 USD,,credit card
+TXN10463,2024-06-24,sunset center,organic coffee,Grocery,5.0,155,,cash
+TXN10278,2024-05-12,RIVERSIDE PLAZA,Stuffed Bear,Toys,6.0,$45.06,CUSTOMER278@EXAMPLE.COM,credit card
+TXN10242,03/07/2024,DOWNTOWN FLAGSHIP,  Stuffed Bear  ,Toys,7.0,167,,CASH
+TXN10074,29-Jan-2024,DOWNTOWN FLAGSHIP,  Running Shoes  ,Apparel,1.0,$84.47,  customer74@example.com  ,Debit Card
+TXN10274,14-Aug-2024,WESTFIELD MALL,organic coffee,Grocery,3.0,78.62,CUSTOMER274@EXAMPLE.COM,cash
+TXN10494,2024/04/12,Downtown Flagship,Coffee Maker,Home & Kitchen,4.0,186,customer494@example.com,cash
+TXN10460,2024/08/20, Harbor Point ,sunscreen spf50,Beauty,7.0,$157.70,CUSTOMER460@EXAMPLE.COM,cash
+TXN10080,03-Oct-2024, Westfield Mall ,  LED Lamp  ,Home & Kitchen,4.0,37.38 USD,  customer80@example.com  ,CASH
+TXN10364,05/14/2024,RIVERSIDE PLAZA,phone charger,Electronics,5.0,50.85 USD,,credit card
+TXN10026,10/25/2024,sunset center,BLUETOOTH SPEAKER,Electronics,1.0,209.48 USD,customer26@example.com,CASH
+TXN10204,2024-06-02,s004,Organic Coffee,Grocery,,83.13 USD,customer204@example.com,
+TXN10292,03/08/2024,s001,Winter Jacket,Apparel,4.0,$59.96,customer292@example.com,CASH
+TXN10305,2024/09/12,HARBOR POINT,Smart Watch,Electronics,8.0,26.56,customer305@example.com,cash
+TXN10337,04/01/2024,s005,shampoo,Beauty,3.0,114.32,CUSTOMER337@EXAMPLE.COM,cash
+TXN10350,2024/10/13,SUNSET CENTER,  Green Tea  ,Grocery,8.0,49,CUSTOMER350@EXAMPLE.COM,
+TXN10108,2024/09/16,downtown flagship,Throw Pillow,Home & Kitchen,2.0,$155.68,,Debit Card
+TXN10014,2024-06-18, Westfield Mall ,FACE MOISTURIZER,Beauty,2.0,227,CUSTOMER14@EXAMPLE.COM,Debit Card
+TXN10147,20-Jul-2024,DOWNTOWN FLAGSHIP,  Hand Cream  ,Beauty,3.0,$243.90,  customer147@example.com  ,Debit Card
+TXN10114,2024/03/08,Downtown Flagship,STUFFED BEAR,Toys,6.0,$219.72,  customer114@example.com  ,Credit Card
+TXN10405,2024-08-31, Westfield Mall ,led lamp,Home & Kitchen,3.0,87,  customer405@example.com  ,
+TXN10155,15-Mar-2024,S004,  Stuffed Bear  ,Toys,7.0,205.50,,cash
+TXN10059,29-Apr-2024,s003,RUNNING SHOES,Apparel,8.0,$22.44,CUSTOMER59@EXAMPLE.COM,CASH
+TXN10193,2024/09/19,S004,Bluetooth Speaker,Electronics,8.0,141.46,,cash
+TXN10098,21-Mar-2024,HARBOR POINT,  Puzzle Set  ,Toys,7.0,116.14,customer98@example.com,credit card
+TXN10499,2024/07/20,s004,Wireless Earbuds,Electronics,1.0,$109.30,customer499@example.com,Debit Card
+TXN10487,07/08/2024,westfield mall,PHONE CHARGER,Electronics,7.0,46.17,CUSTOMER487@EXAMPLE.COM,Credit Card
+TXN10041,10/06/2024,harbor point,THROW PILLOW,Home & Kitchen,7.0,137,customer41@example.com,cash
+TXN10281,04-Jan-2024, Sunset Center ,  Hand Cream  ,Beauty,7.0,148.20,  customer281@example.com  ,Credit Card
+TXN10227,2024-05-25,s001,  Running Shoes  ,Apparel,4.0,$140.58,  customer227@example.com  ,CASH
+TXN10240,2024/05/01,riverside plaza,Sunscreen SPF50,Beauty,2.0,$55.27,,Credit Card
+TXN10079,21-Jan-2024,riverside plaza,Wool Socks,Apparel,3.0,$158.92,customer79@example.com,CASH
+TXN10028,2024/02/25,S004,running shoes,Apparel,4.0,70,,CASH
+TXN10435,03/01/2024, Downtown Flagship ,wireless earbuds,Electronics,8.0,158.24 USD,,Debit Card
+TXN10319,08/26/2024,S002,COFFEE MAKER,Home & Kitchen,5.0,6.38,,cash
+TXN10239,01/13/2024, Westfield Mall ,  Puzzle Set  ,Toys,1.0,233.44,,Credit Card
+TXN10267,2024-02-19,s001,  Cutting Board  ,Home & Kitchen,3.0,189,CUSTOMER267@EXAMPLE.COM,Debit Card
+TXN10212,2024-10-16,Harbor Point,  Granola Bars  ,Grocery,8.0,$45.98,,credit card
+TXN10417,2024-09-29,Westfield Mall,  Hand Cream  ,Beauty,6.0,$21.61,customer417@example.com,CASH
+TXN10057,07-Aug-2024, Harbor Point ,Granola Bars,Grocery,5.0,215.74,CUSTOMER57@EXAMPLE.COM,
+TXN10168,2024-06-25, Westfield Mall ,Non-stick Pan,Home & Kitchen,2.0,16.10,  customer168@example.com  ,Credit Card
+TXN10062,2024-05-17,Sunset Center,hand cream,Beauty,1.0,250,,credit card
+TXN10401,2024-06-02, Riverside Plaza ,running shoes,Apparel,4.0,$62.08,customer401@example.com,
+TXN10111,17-Mar-2024,S005,NON-STICK PAN,Home & Kitchen,7.0,74.62 USD,  customer111@example.com  ,credit card
+TXN10084,2024/03/10,downtown flagship,  Organic Coffee  ,Grocery,4.0,222,CUSTOMER84@EXAMPLE.COM,cash
+TXN10408,04/29/2024,s004,  Cutting Board  ,Home & Kitchen,3.0,112.91,customer408@example.com,
+TXN10375,10/03/2024, Sunset Center ,rc car,Toys,8.0,38,,CASH
+TXN10382,2024-03-15,HARBOR POINT,pasta pack,Grocery,1.0,86,CUSTOMER382@EXAMPLE.COM,credit card
+TXN10451,2024/09/29,riverside plaza,face moisturizer,Beauty,2.0,$199.15,CUSTOMER451@EXAMPLE.COM,cash
+TXN10129,22-Jan-2024, Westfield Mall ,board game,Toys,8.0,91.13,customer129@example.com,
+TXN10258,2024-04-23,sunset center,BLUETOOTH SPEAKER,Electronics,6.0,230.65,CUSTOMER258@EXAMPLE.COM,CASH
+TXN10096,2024-07-07,DOWNTOWN FLAGSHIP,OLIVE OIL,Grocery,6.0,212.12,,Credit Card
+TXN10303,07/16/2024, Harbor Point ,Shampoo,Beauty,,$167.61,  customer303@example.com  ,cash
+TXN10177,2024-07-12,S005,NON-STICK PAN,Home & Kitchen,4.0,$17.63,  customer177@example.com  ,credit card
+TXN10381,2024-04-29,Westfield Mall,Throw Pillow,Home & Kitchen,8.0,183.14 USD,  customer381@example.com  ,CASH
+TXN10496,2024/02/26,sunset center,cotton t-shirt,Apparel,1.0,73.75 USD,CUSTOMER496@EXAMPLE.COM,CASH
+TXN10141,01/31/2024,riverside plaza,sunscreen spf50,Beauty,8.0,$22.88,,Debit Card
+TXN10480,23-Aug-2024,s003,FACE MOISTURIZER,Beauty,6.0,24.71,  customer480@example.com  ,
+TXN10422,2024-10-19, Harbor Point ,USB Cable,Electronics,6.0,101.57,CUSTOMER422@EXAMPLE.COM,Debit Card
+TXN10385,2024-04-21,Westfield Mall,lip balm,Beauty,6.0,$222.44,,Debit Card
+TXN10491,2024-04-09,Harbor Point,puzzle set,Toys,4.0,$72.72,customer491@example.com,Credit Card
+TXN10310,09/15/2024,downtown flagship,Hand Cream,Beauty,8.0,117.06,  customer310@example.com  ,Debit Card
+TXN10334,2024-03-30,RIVERSIDE PLAZA,PASTA PACK,Grocery,8.0,$140.16,,
+TXN10316,10/14/2024,s003,building blocks,Toys,8.0,30.11 USD,customer316@example.com,cash
+TXN10263,10-Oct-2024,s002,  Phone Charger  ,Electronics,4.0,105.27,customer263@example.com,cash
+TXN10081,03/13/2024,s001,lip balm,Beauty,8.0,240.91 USD,customer81@example.com,cash
+TXN10481,2024/07/02,S004,running shoes,Apparel,2.0,$159.50,customer481@example.com,credit card
+TXN10340,2024/06/25,harbor point,Wool Socks,Apparel,6.0,$205.22,  customer340@example.com  ,credit card
+TXN10333,11-Aug-2024,RIVERSIDE PLAZA,COTTON T-SHIRT,Apparel,4.0,197.49 USD,  customer333@example.com  ,cash
+TXN10218,2024/07/07,harbor point,  Face Moisturizer  ,Beauty,5.0,175.20,  customer218@example.com  ,
+TXN10450,08/24/2024,HARBOR POINT,  Wireless Earbuds  ,Electronics,2.0,$91.10,customer450@example.com,cash
+TXN10283,2024/08/02,harbor point,Cotton T-Shirt,Apparel,5.0,$68.56,,
+TXN10413,28-Sep-2024,HARBOR POINT,wool socks,Apparel,1.0,$14.74,customer413@example.com,CASH
+TXN10308,01/24/2024,sunset center,THROW PILLOW,Home & Kitchen,6.0,177,customer308@example.com,CASH
+TXN10053,10/01/2024,Downtown Flagship,COFFEE MAKER,Home & Kitchen,4.0,82.31 USD,,Credit Card
+TXN10171,04/27/2024,sunset center,  LED Lamp  ,Home & Kitchen,7.0,$135.32,customer171@example.com,Credit Card
+TXN10200,2024/09/02, Harbor Point ,shampoo,Beauty,7.0,23.12 USD,customer200@example.com,Credit Card
+TXN10293,2024-01-25,s004,Face Moisturizer,Beauty,5.0,193.96,customer293@example.com,
+TXN10139,03/27/2024,Sunset Center,  Cutting Board  ,Home & Kitchen,2.0,128.13,customer139@example.com,Credit Card
+TXN10284,02-Jul-2024,Sunset Center,SHAMPOO,Beauty,8.0,227,CUSTOMER284@EXAMPLE.COM,
+TXN10295,2024/03/11,S005,Face Moisturizer,Beauty,5.0,157.59,  customer295@example.com  ,credit card
+TXN10066,05/02/2024,HARBOR POINT,Running Shoes,Apparel,8.0,34.75,CUSTOMER66@EXAMPLE.COM,Credit Card
+TXN10436,2024-05-10,DOWNTOWN FLAGSHIP,  Shampoo  ,Beauty,4.0,174.05 USD,customer436@example.com,Credit Card
+TXN10418,05/20/2024,Riverside Plaza,Granola Bars,Grocery,8.0,187.67,,Debit Card
+TXN10305,2024/09/12,HARBOR POINT,Smart Watch,Electronics,8.0,26.56,customer305@example.com,cash
+TXN10222,2024/04/29,s001,Shampoo,Beauty,7.0,158.27,CUSTOMER222@EXAMPLE.COM,cash
+TXN10477,2024-02-07, Harbor Point ,  Face Moisturizer  ,Beauty,5.0,30.31,  customer477@example.com  ,credit card
+TXN10099,2024/08/05, Downtown Flagship ,wool socks,Apparel,2.0,$71.67,customer99@example.com,CASH
+TXN10294,2024/05/09,s004,SMART WATCH,Electronics,7.0,35.28,,cash
+TXN10148,2024/08/30,Downtown Flagship,WIRELESS EARBUDS,Electronics,3.0,179.83 USD,CUSTOMER148@EXAMPLE.COM,cash
+TXN10015,2024/08/30,Sunset Center,Wool Socks,Apparel,8.0,65,,cash
+TXN10163,2024-06-03,HARBOR POINT,  Olive Oil  ,Grocery,5.0,238.74,customer163@example.com,cash
+TXN10300,21-Aug-2024,downtown flagship,coffee maker,Home & Kitchen,7.0,$103.06,customer300@example.com,credit card
+TXN10046,2024-02-25,DOWNTOWN FLAGSHIP,stuffed bear,Toys,3.0,$241.36,customer46@example.com,Debit Card
+TXN10086,05/21/2024,S005,phone charger,Electronics,6.0,$19.83,customer86@example.com,Credit Card
+TXN10037,28-Sep-2024,harbor point,cotton t-shirt,Apparel,3.0,201,CUSTOMER37@EXAMPLE.COM,
+TXN10438,01-Oct-2024,harbor point,shampoo,Beauty,3.0,158.66,,Debit Card
+TXN10384,08-Jun-2024,Sunset Center,Face Moisturizer,Beauty,4.0,120.84,,cash
+TXN10397,2024/10/08, Downtown Flagship ,  Sunscreen SPF50  ,Beauty,3.0,199,,CASH
+TXN10206,2024/04/11, Harbor Point ,sunscreen spf50,Beauty,1.0,$185.66,CUSTOMER206@EXAMPLE.COM,CASH
+TXN10406,10/19/2024, Harbor Point ,DENIM JEANS,Apparel,4.0,124.53 USD,  customer406@example.com  ,CASH
+TXN10362,10/22/2024,S003,wool socks,Apparel,7.0,59.41,,cash
+TXN10172,2024-02-04, Sunset Center ,Sunscreen SPF50,Beauty,1.0,63.96,CUSTOMER172@EXAMPLE.COM,
+TXN10073,30-Apr-2024,Sunset Center,Sunscreen SPF50,Beauty,1.0,156.28,customer73@example.com,cash
+TXN10464,04-Jun-2024,S003,throw pillow,Home & Kitchen,3.0,13.65,,
+TXN10104,21-Jul-2024,s004,  Bluetooth Speaker  ,Electronics,7.0,$133.37,customer104@example.com,Debit Card
+TXN10249,2024-03-17, Westfield Mall ,COFFEE MAKER,Home & Kitchen,5.0,74,  customer249@example.com  ,Debit Card
+TXN10454,2024-02-01,Downtown Flagship,USB CABLE,Electronics,7.0,85.22,CUSTOMER454@EXAMPLE.COM,
+TXN10016,2024-06-22,Downtown Flagship,GRANOLA BARS,Grocery,2.0,20,CUSTOMER16@EXAMPLE.COM,cash
+TXN10441,06/03/2024, Riverside Plaza ,  Olive Oil  ,Grocery,8.0,208.22 USD,customer441@example.com,credit card
+TXN10091,2024-08-15,S001,  Granola Bars  ,Grocery,8.0,179.54,CUSTOMER91@EXAMPLE.COM,CASH
+TXN10088,03-Oct-2024,Riverside Plaza,Building Blocks,Toys,3.0,246.94,CUSTOMER88@EXAMPLE.COM,Credit Card
+TXN10475,2024-05-21,riverside plaza,lip balm,Beauty,3.0,196.28,,CASH
+TXN10140,2024-08-01,riverside plaza,  USB Cable  ,Electronics,4.0,192.90 USD,  customer140@example.com  ,credit card
+TXN10194,10/13/2024, Harbor Point ,PHONE CHARGER,Electronics,7.0,$195.90,CUSTOMER194@EXAMPLE.COM,CASH
+TXN10205,2024/06/18,sunset center,DENIM JEANS,Apparel,3.0,$140.22,CUSTOMER205@EXAMPLE.COM,
+TXN10102,2024/01/22,S001,rc car,Toys,7.0,216.13 USD,  customer102@example.com  ,Debit Card
+TXN10238,29-May-2024,s004,USB CABLE,Electronics,1.0,95,CUSTOMER238@EXAMPLE.COM,
+TXN10447,07/19/2024,s004,wireless earbuds,Electronics,1.0,26.10 USD,,credit card
+TXN10174,2024-05-20, Sunset Center ,COFFEE MAKER,Home & Kitchen,4.0,106,  customer174@example.com  ,Credit Card
+TXN10170,2024/10/02, Westfield Mall ,HAND CREAM,Beauty,6.0,$34.07,customer170@example.com,Credit Card
+TXN10296,28-Jul-2024,Riverside Plaza,Puzzle Set,Toys,4.0,$92.69,  customer296@example.com  ,CASH
+TXN10157,30-Jul-2024,s002,hand cream,Beauty,4.0,$17.86,customer157@example.com,Debit Card
+TXN10289,2024-07-15,S004,GRANOLA BARS,Grocery,7.0,241.51,,Debit Card
+TXN10070,2024-07-29,HARBOR POINT,wool socks,Apparel,4.0,215,  customer70@example.com  ,
+TXN10133,09/08/2024,S002,SUNSCREEN SPF50,Beauty,5.0,175,CUSTOMER133@EXAMPLE.COM,
+TXN10347,2024/09/03,DOWNTOWN FLAGSHIP,Pasta Pack,Grocery,7.0,61.22 USD,  customer347@example.com  ,credit card
+TXN10455,2024/10/22,Sunset Center,WINTER JACKET,Apparel,5.0,100.55 USD,,Debit Card
+TXN10103,06/15/2024, Riverside Plaza ,granola bars,Grocery,2.0,104.23 USD,customer103@example.com,cash
+TXN10392,2024-02-04,Downtown Flagship,PASTA PACK,Grocery,2.0,$133.18,customer392@example.com,cash
+TXN10018,2024-07-24,Harbor Point,winter jacket,Apparel,,57,,cash
+TXN10150,2024/01/14,HARBOR POINT,FACE MOISTURIZER,Beauty,5.0,200,CUSTOMER150@EXAMPLE.COM,Debit Card
+TXN10352,23-Apr-2024,S004,Green Tea,Grocery,2.0,21,,
+TXN10365,09-Jul-2024,westfield mall,  Granola Bars  ,Grocery,7.0,$176.67,CUSTOMER365@EXAMPLE.COM,Credit Card
+TXN10360,03-May-2024,Harbor Point,SHAMPOO,Beauty,4.0,$62.54,,credit card
+TXN10301,2024/09/04,Westfield Mall,face moisturizer,Beauty,2.0,106.93,CUSTOMER301@EXAMPLE.COM,cash
+TXN10034,2024-03-27,SUNSET CENTER,  Olive Oil  ,Grocery,8.0,$199.47,,credit card
+TXN10181,2024/05/05, Westfield Mall ,  Running Shoes  ,Apparel,7.0,145,  customer181@example.com  ,cash
+TXN10184,28-Sep-2024, Sunset Center ,  USB Cable  ,Electronics,,8,CUSTOMER184@EXAMPLE.COM,Credit Card
+TXN10207,10/01/2024,SUNSET CENTER,  Face Moisturizer  ,Beauty,2.0,200.88,,
+TXN10094,2024/02/17,S001,  Winter Jacket  ,Apparel,2.0,208.78,,
+TXN10390,18-Aug-2024,WESTFIELD MALL,  Stuffed Bear  ,Toys,2.0,135,CUSTOMER390@EXAMPLE.COM,Credit Card
+TXN10313,28-May-2024,s002,HAND CREAM,Beauty,4.0,$56.38,,
+TXN10122,2024/05/03,Harbor Point,Running Shoes,Apparel,1.0,155.63 USD,customer122@example.com,Debit Card
+TXN10351,2024/09/17,HARBOR POINT,Bluetooth Speaker,Electronics,3.0,29.57,customer351@example.com,credit card
+TXN10078,2024/01/26,RIVERSIDE PLAZA,SUNSCREEN SPF50,Beauty,1.0,143.65 USD,CUSTOMER78@EXAMPLE.COM,
+TXN10061,2024/01/21,s004,  Stuffed Bear  ,Toys,8.0,24.71,customer61@example.com,credit card
+TXN10492,2024/06/20,S003,Lip Balm,Beauty,4.0,$111.49,CUSTOMER492@EXAMPLE.COM,Credit Card
+TXN10125,2024-08-22,WESTFIELD MALL,OLIVE OIL,Grocery,2.0,$180.43,customer125@example.com,CASH
+TXN10330,05/09/2024,S002,HAND CREAM,Beauty,3.0,50.08,  customer330@example.com  ,
+TXN10328,09/30/2024,Harbor Point,granola bars,Grocery,1.0,121.13 USD,CUSTOMER328@EXAMPLE.COM,CASH
+TXN10119,20-Feb-2024,Westfield Mall,PHONE CHARGER,Electronics,1.0,83,CUSTOMER119@EXAMPLE.COM,
+TXN10446,08-Jun-2024, Sunset Center ,running shoes,Apparel,4.0,46.96,  customer446@example.com  ,
+TXN10361,2024-10-04,downtown flagship,  Wireless Earbuds  ,Electronics,8.0,155,,cash
+TXN10478,2024/06/17, Downtown Flagship ,Face Moisturizer,Beauty,7.0,70,  customer478@example.com  ,cash
+TXN10024,17-Apr-2024,Downtown Flagship,  Non-stick Pan  ,Home & Kitchen,3.0,71.73 USD,customer24@example.com,Credit Card
+TXN10340,2024/06/25,harbor point,Wool Socks,Apparel,6.0,$205.22,  customer340@example.com  ,credit card
+TXN10369,25-May-2024,WESTFIELD MALL,hand cream,Beauty,3.0,245,customer369@example.com,cash
+TXN10146,01/27/2024,HARBOR POINT,  Lip Balm  ,Beauty,6.0,16,,Debit Card
+TXN10126,07-Apr-2024,HARBOR POINT,Cutting Board,Home & Kitchen,8.0,67.06 USD,,Credit Card
+TXN10430,2024-03-16,s005,  Cutting Board  ,Home & Kitchen,4.0,16.99,,CASH
+TXN10189,03-Oct-2024,westfield mall,WOOL SOCKS,Apparel,7.0,170.87,,Credit Card
+TXN10178,2024/03/01,Downtown Flagship,THROW PILLOW,Home & Kitchen,4.0,$234.60,,CASH
+TXN10459,01/09/2024,s002,coffee maker,Home & Kitchen,1.0,$22.58,customer459@example.com,credit card
+TXN10394,01-Feb-2024, Downtown Flagship ,sunscreen spf50,Beauty,8.0,201.25,,Debit Card
+TXN10223,2024-08-15,S005,  Bluetooth Speaker  ,Electronics,4.0,132,CUSTOMER223@EXAMPLE.COM,cash
+TXN10371,2024/05/16,RIVERSIDE PLAZA,coffee maker,Home & Kitchen,6.0,164.99 USD,  customer371@example.com  ,cash
+TXN10093,2024/07/23,s004,Olive Oil,Grocery,6.0,207.72 USD,,CASH
+TXN10069,25-Jun-2024, Westfield Mall ,board game,Toys,8.0,136.95 USD,CUSTOMER69@EXAMPLE.COM,
+TXN10036,2024/02/24,Westfield Mall,OLIVE OIL,Grocery,1.0,224,customer36@example.com,Debit Card
+TXN10160,20-Jun-2024,sunset center,cutting board,Home & Kitchen,2.0,$232.47,  customer160@example.com  ,CASH
+TXN10011,2024-05-03,S003,wireless earbuds,Electronics,5.0,$63.67,CUSTOMER11@EXAMPLE.COM,
+TXN10144,2024-09-11,S004,green tea,Grocery,8.0,$220.37,CUSTOMER144@EXAMPLE.COM,Debit Card
+TXN10434,2024/09/11,riverside plaza,STUFFED BEAR,Toys,3.0,$155.50,,credit card
+TXN10127,16-Jul-2024,Harbor Point,led lamp,Home & Kitchen,8.0,224.19 USD,,Credit Card
+TXN10302,13-May-2024,S004,ORGANIC COFFEE,Grocery,8.0,16.26 USD,customer302@example.com,cash
+TXN10009,2024-06-23,SUNSET CENTER,wireless earbuds,Electronics,5.0,193.31,,Debit Card
+TXN10395,2024-09-22,S003,WIRELESS EARBUDS,Electronics,2.0,$236.43,CUSTOMER395@EXAMPLE.COM,Debit Card
+TXN10176,08/01/2024,harbor point,COFFEE MAKER,Home & Kitchen,1.0,142.78 USD,customer176@example.com,cash
+TXN10231,20-Mar-2024,sunset center,Non-stick Pan,Home & Kitchen,4.0,244,CUSTOMER231@EXAMPLE.COM,Credit Card
+TXN10210,10/02/2024, Harbor Point ,WOOL SOCKS,Apparel,7.0,$50.51,CUSTOMER210@EXAMPLE.COM,CASH
+TXN10128,02-Apr-2024,DOWNTOWN FLAGSHIP,Sunscreen SPF50,Beauty,7.0,152.60 USD,,cash
+TXN10143,2024/07/15,Westfield Mall,OLIVE OIL,Grocery,2.0,17.40 USD,CUSTOMER143@EXAMPLE.COM,credit card
+TXN10241,2024/07/09,s005,Bluetooth Speaker,Electronics,7.0,$176.71,  customer241@example.com  ,Credit Card
+TXN10007,2024/08/07,SUNSET CENTER,DENIM JEANS,Apparel,5.0,$188.02,  customer7@example.com  ,Credit Card
+TXN10298,2024-01-26,Harbor Point,Shampoo,Beauty,5.0,69.71 USD,,cash
+TXN10254,2024-01-20,S005,WINTER JACKET,Apparel,5.0,48.01,  customer254@example.com  ,Credit Card
+TXN10461,01-May-2024,sunset center,  Building Blocks  ,Toys,8.0,212.47,  customer461@example.com  ,
+TXN10354,14-Feb-2024,westfield mall,  Phone Charger  ,Electronics,1.0,244,CUSTOMER354@EXAMPLE.COM,Debit Card
+TXN10008,2024-08-04,westfield mall,wireless earbuds,Electronics,3.0,199,,Debit Card
+TXN10156,02-Oct-2024, Harbor Point ,  Lip Balm  ,Beauty,4.0,$54.51,CUSTOMER156@EXAMPLE.COM,Credit Card
+TXN10027,07/27/2024,Downtown Flagship,DENIM JEANS,Apparel,6.0,$196.13,  customer27@example.com  ,Credit Card
+TXN10266,07/08/2024,westfield mall,Board Game,Toys,6.0,222,,credit card
+TXN10314,01-Aug-2024,sunset center,Phone Charger,Electronics,8.0,147.79,  customer314@example.com  ,credit card
+TXN10064,10-Jun-2024,HARBOR POINT,Pasta Pack,Grocery,1.0,116,customer64@example.com,
+TXN10255,31-Mar-2024,S002,Cutting Board,Home & Kitchen,3.0,$88.49,customer255@example.com,Debit Card
+TXN10336,05/28/2024,harbor point,Running Shoes,Apparel,4.0,223.40,CUSTOMER336@EXAMPLE.COM,Debit Card
+TXN10153,24-Jun-2024,s002,  Pasta Pack  ,Grocery,8.0,$228.47,CUSTOMER153@EXAMPLE.COM,CASH
+TXN10048,08/23/2024,downtown flagship,GRANOLA BARS,Grocery,7.0,240.39 USD,  customer48@example.com  ,cash
+TXN10208,2024-10-27,RIVERSIDE PLAZA,  Green Tea  ,Grocery,7.0,$154.77,,Debit Card
+TXN10287,2024/10/18,Westfield Mall,  Bluetooth Speaker  ,Electronics,4.0,$88.95,customer287@example.com,cash
+TXN10001,2024/10/06,Sunset Center,denim jeans,Apparel,1.0,142.51,CUSTOMER1@EXAMPLE.COM,
+TXN10269,2024-03-05,westfield mall,Olive Oil,Grocery,4.0,203,CUSTOMER269@EXAMPLE.COM,
+TXN10265,2024-08-30,WESTFIELD MALL,bluetooth speaker,Electronics,5.0,244.38 USD,customer265@example.com,
+TXN10346,2024-09-29,S004,bluetooth speaker,Electronics,1.0,220.05,  customer346@example.com  ,Debit Card
+TXN10353,13-Apr-2024,Westfield Mall,Building Blocks,Toys,8.0,$112.55,CUSTOMER353@EXAMPLE.COM,
+TXN10095,27-Jan-2024, Riverside Plaza ,  Smart Watch  ,Electronics,7.0,$217.68,CUSTOMER95@EXAMPLE.COM,
+TXN10489,2024/05/18,westfield mall,SUNSCREEN SPF50,Beauty,4.0,40.06,CUSTOMER489@EXAMPLE.COM,
+TXN10042,2024-09-30,westfield mall,LED Lamp,Home & Kitchen,8.0,230,CUSTOMER42@EXAMPLE.COM,cash
+TXN10377,2024/09/08,SUNSET CENTER,LED Lamp,Home & Kitchen,1.0,173.50 USD,CUSTOMER377@EXAMPLE.COM,Credit Card
+TXN10116,2024/07/14,Harbor Point,HAND CREAM,Beauty,8.0,$193.51,,Credit Card
+TXN10045,2024-08-30, Sunset Center ,COTTON T-SHIRT,Apparel,3.0,63.44 USD,,credit card
+TXN10161,05/11/2024,S003,  Cotton T-Shirt  ,Apparel,3.0,$184.12,CUSTOMER161@EXAMPLE.COM,Debit Card
+TXN10407,04-Aug-2024,DOWNTOWN FLAGSHIP,HAND CREAM,Beauty,2.0,169.58,,credit card
+TXN10117,2024-09-21,RIVERSIDE PLAZA,Sunscreen SPF50,Beauty,2.0,179.29 USD,  customer117@example.com  ,Debit Card
+TXN10288,05/20/2024,Riverside Plaza,COFFEE MAKER,Home & Kitchen,1.0,6.15,CUSTOMER288@EXAMPLE.COM,Debit Card
+TXN10077,2024-09-04,Riverside Plaza,led lamp,Home & Kitchen,4.0,249.85 USD,,Credit Card
+TXN10414,13-Sep-2024,S003,  Lip Balm  ,Beauty,5.0,62.87,,credit card
+TXN10063,28-Jul-2024,HARBOR POINT,Board Game,Toys,2.0,120.15 USD,  customer63@example.com  ,
+TXN10338,15-Apr-2024,riverside plaza,cotton t-shirt,Apparel,6.0,62.33,customer338@example.com,
+TXN10439,18-Jun-2024,S005,LIP BALM,Beauty,1.0,56.02,,cash
+TXN10449,07/19/2024,s005,  Denim Jeans  ,Apparel,5.0,228.65 USD,  customer449@example.com  ,cash
+TXN10230,2024/09/13,harbor point,wireless earbuds,Electronics,5.0,$159.00,,Credit Card
+TXN10297,2024/10/20,Downtown Flagship,Cotton T-Shirt,Apparel,2.0,227.19,customer297@example.com,CASH
+TXN10186,2024-02-11,S002,green tea,Grocery,4.0,78,customer186@example.com,
+TXN10358,27-Apr-2024,harbor point,  Non-stick Pan  ,Home & Kitchen,4.0,170.84,,credit card
+TXN10199,2024-05-29,harbor point,building blocks,Toys,4.0,112.42 USD,CUSTOMER199@EXAMPLE.COM,CASH
+TXN10363,23-Aug-2024,s004,Shampoo,Beauty,,$176.07,  customer363@example.com  ,Debit Card
+TXN10121,2024-08-22,S001,running shoes,Apparel,1.0,63.42,CUSTOMER121@EXAMPLE.COM,
+TXN10495,07/10/2024,sunset center,DENIM JEANS,Apparel,8.0,48.62 USD,CUSTOMER495@EXAMPLE.COM,CASH
+TXN10458,2024/03/29,Harbor Point,GRANOLA BARS,Grocery,7.0,138.55 USD,  customer458@example.com  ,credit card
+TXN10307,2024/07/05,S005,Pasta Pack,Grocery,8.0,$180.58,customer307@example.com,CASH
+TXN10488,2024-09-06,S004,Hand Cream,Beauty,3.0,8.83,,cash
+TXN10158,27-May-2024,HARBOR POINT,Winter Jacket,Apparel,8.0,164.38,CUSTOMER158@EXAMPLE.COM,Debit Card
+TXN10085,2024-05-23,s004,  Face Moisturizer  ,Beauty,7.0,235,CUSTOMER85@EXAMPLE.COM,CASH
+TXN10225,2024/03/25,DOWNTOWN FLAGSHIP,SHAMPOO,Beauty,1.0,$154.53,  customer225@example.com  ,Debit Card
+TXN10262,2024-09-04,downtown flagship,USB CABLE,Electronics,6.0,151,CUSTOMER262@EXAMPLE.COM,Credit Card
+TXN10331,2024/04/11,RIVERSIDE PLAZA,  Building Blocks  ,Toys,2.0,$66.42,customer331@example.com,CASH
+TXN10425,2024-08-18,Westfield Mall,hand cream,Beauty,7.0,$106.32,  customer425@example.com  ,Credit Card
+TXN10076,2024-03-21,harbor point,  Face Moisturizer  ,Beauty,5.0,171.01 USD,  customer76@example.com  ,
+TXN10412,07/16/2024,riverside plaza,Lip Balm,Beauty,2.0,10,customer412@example.com,credit card
+TXN10404,04/23/2024,S003,building blocks,Toys,3.0,85.07,CUSTOMER404@EXAMPLE.COM,cash
+TXN10087,10/10/2024, Westfield Mall ,COFFEE MAKER,Home & Kitchen,4.0,$21.81,,credit card
+,,,,,,,,
+TXN10182,09/07/2024, Westfield Mall ,Running Shoes,Apparel,3.0,181.48,customer182@example.com,Credit Card
+TXN10105,27-Jun-2024,s005,FACE MOISTURIZER,Beauty,4.0,$226.95,,credit card
+TXN10423,01/26/2024,DOWNTOWN FLAGSHIP,board game,Toys,7.0,131.45 USD,,cash
+TXN10049,14-Feb-2024,riverside plaza,GREEN TEA,Grocery,6.0,214,,Credit Card
+TXN10403,03/02/2024,s004,Throw Pillow,Home & Kitchen,7.0,233,customer403@example.com,CASH
+TXN10005,03/28/2024,Riverside Plaza,coffee maker,Home & Kitchen,2.0,$154.24,,Credit Card
+TXN10017,2024/02/08, Harbor Point ,Running Shoes,Apparel,4.0,219.25,customer17@example.com,credit card
+TXN10234,2024-10-22,downtown flagship,cutting board,Home & Kitchen,5.0,179.52,  customer234@example.com  ,Debit Card
+TXN10427,03/17/2024,Westfield Mall,ORGANIC COFFEE,Grocery,6.0,143.55,  customer427@example.com  ,CASH
+TXN10372,2024-05-08,Downtown Flagship,DENIM JEANS,Apparel,3.0,183.30,customer372@example.com,cash
+TXN10421,2024/08/12,s002,  Shampoo  ,Beauty,2.0,$48.38,  customer421@example.com  ,cash
+TXN10106,2024/09/09, Westfield Mall ,wool socks,Apparel,2.0,48.40 USD,,credit card
+TXN10134,08-Oct-2024,RIVERSIDE PLAZA,ORGANIC COFFEE,Grocery,6.0,$178.84,,Debit Card
+TXN10471,05/03/2024, Harbor Point ,  Hand Cream  ,Beauty,8.0,$194.42,,Debit Card
+TXN10226,2024-03-12, Westfield Mall ,sunscreen spf50,Beauty,2.0,225,,credit card
+TXN10214,2024-06-27,riverside plaza,Bluetooth Speaker,Electronics,1.0,$115.18,CUSTOMER214@EXAMPLE.COM,
+TXN10190,22-Jul-2024,S002,  Smart Watch  ,Electronics,2.0,88,  customer190@example.com  ,credit card
+TXN10469,2024/03/15,S004,  Puzzle Set  ,Toys,7.0,121,  customer469@example.com  ,
+TXN10320,06/11/2024,Riverside Plaza,Stuffed Bear,Toys,2.0,$197.09,  customer320@example.com  ,Debit Card
+TXN10282,06/01/2024,Riverside Plaza,THROW PILLOW,Home & Kitchen,5.0,69,,
+TXN10029,2024-05-22,DOWNTOWN FLAGSHIP,  Denim Jeans  ,Apparel,4.0,103,,Credit Card
+TXN10169,03-Aug-2024,westfield mall,led lamp,Home & Kitchen,3.0,193,  customer169@example.com  ,Credit Card
+TXN10180,04/23/2024,S004,  Throw Pillow  ,Home & Kitchen,1.0,143,,credit card
+TXN10100,2024-06-06,Riverside Plaza,organic coffee,Grocery,8.0,134.10,customer100@example.com,credit card
+TXN10197,2024/04/12,SUNSET CENTER,LED LAMP,Home & Kitchen,3.0,78.61 USD,,
+TXN10209,2024-06-05,Westfield Mall,  Building Blocks  ,Toys,6.0,34,  customer209@example.com  ,Debit Card
+TXN10135,2024-09-09,WESTFIELD MALL,  Cotton T-Shirt  ,Apparel,3.0,$63.00,customer135@example.com,Credit Card
+TXN10304,2024-05-22, Harbor Point ,COTTON T-SHIRT,Apparel,6.0,64,  customer304@example.com  ,credit card
+TXN10456,2024-10-25, Harbor Point ,lip balm,Beauty,6.0,247.62 USD,customer456@example.com,CASH
+TXN10198,2024/05/23,SUNSET CENTER,Sunscreen SPF50,Beauty,4.0,$84.84,CUSTOMER198@EXAMPLE.COM,
+TXN10373,2024-02-12,DOWNTOWN FLAGSHIP,BUILDING BLOCKS,Toys,7.0,133,,credit card
+TXN10166,03/17/2024,SUNSET CENTER,wireless earbuds,Electronics,4.0,$145.31,  customer166@example.com  ,Credit Card
+TXN10409,2024-05-27,SUNSET CENTER,Bluetooth Speaker,Electronics,3.0,218,customer409@example.com,CASH
+TXN10136,2024-10-21,Harbor Point,  LED Lamp  ,Home & Kitchen,7.0,193,  customer136@example.com  ,
+TXN10285,23-Apr-2024,Westfield Mall,  Cutting Board  ,Home & Kitchen,6.0,165.34 USD,,CASH
+TXN10335,2024/01/16, Downtown Flagship ,FACE MOISTURIZER,Beauty,1.0,213.15 USD,  customer335@example.com  ,
+TXN10396,2024/10/12,s005,Shampoo,Beauty,3.0,141.81 USD,  customer396@example.com  ,
+TXN10131,08-Jul-2024,sunset center,Building Blocks,Toys,3.0,171.37 USD,  customer131@example.com  ,CASH
+TXN10039,2024/04/28,s003,THROW PILLOW,Home & Kitchen,2.0,38.90,  customer39@example.com  ,cash
+TXN10215,03/12/2024,Sunset Center,RC Car,Toys,7.0,45.67 USD,CUSTOMER215@EXAMPLE.COM,CASH
+TXN10043,20-Aug-2024,RIVERSIDE PLAZA,cotton t-shirt,Apparel,7.0,85,,Credit Card
+TXN10054,01/08/2024,WESTFIELD MALL,Running Shoes,Apparel,6.0,48.96 USD,CUSTOMER54@EXAMPLE.COM,
+TXN10479,2024-09-03, Sunset Center ,  Organic Coffee  ,Grocery,4.0,5.81 USD,  customer479@example.com  ,Credit Card
+TXN10299,03/11/2024,DOWNTOWN FLAGSHIP,  Face Moisturizer  ,Beauty,1.0,7.37 USD,customer299@example.com,CASH
+TXN10484,01/24/2024,s004,SHAMPOO,Beauty,,120.45,,Credit Card
+TXN10304,2024-05-22, Harbor Point ,COTTON T-SHIRT,Apparel,6.0,64,  customer304@example.com  ,credit card
+TXN10035,2024-08-31,downtown flagship,denim jeans,Apparel,1.0,$64.99,  customer35@example.com  ,cash
+TXN10315,23-Mar-2024,s002,  Wireless Earbuds  ,Electronics,5.0,188.80,,credit card
+TXN10399,2024-07-22,s003,Lip Balm,Beauty,8.0,114.64,CUSTOMER399@EXAMPLE.COM,CASH
+TXN10309,07/20/2024,westfield mall,PUZZLE SET,Toys,2.0,232.90,  customer309@example.com  ,Credit Card
+TXN10276,2024-04-12,Westfield Mall,Building Blocks,Toys,4.0,219.42 USD,CUSTOMER276@EXAMPLE.COM,CASH
+TXN10124,06/19/2024,S002,  Phone Charger  ,Electronics,2.0,$194.02,  customer124@example.com  ,
+TXN10142,07-Mar-2024, Riverside Plaza ,Running Shoes,Apparel,6.0,244,customer142@example.com,CASH
+TXN10110,2024/05/24,westfield mall,  Stuffed Bear  ,Toys,6.0,96.35,,Credit Card
+TXN10323,2024/09/17,downtown flagship,RC Car,Toys,6.0,$131.01,,Debit Card
+TXN10332,17-Jun-2024,s002,BUILDING BLOCKS,Toys,6.0,124.04 USD,,cash
+TXN10393,26-Sep-2024,S001,  Cotton T-Shirt  ,Apparel,7.0,166.19,customer393@example.com,credit card
+TXN10465,2024-09-15,RIVERSIDE PLAZA,  Building Blocks  ,Toys,8.0,25.21 USD,,CASH
+TXN10107,2024-05-20,HARBOR POINT,Organic Coffee,Grocery,8.0,160,customer107@example.com,Credit Card
+TXN10472,2024-09-25,s001,wireless earbuds,Electronics,1.0,105.76 USD,,credit card
+TXN10012,08/04/2024, Westfield Mall ,GREEN TEA,Grocery,5.0,134,,cash
+TXN10272,2024/10/19,S003,LED LAMP,Home & Kitchen,7.0,$165.42,  customer272@example.com  ,Credit Card
+TXN10047,2024-03-02,DOWNTOWN FLAGSHIP,shampoo,Beauty,5.0,213.32,,Credit Card
+TXN10203,13-Mar-2024,DOWNTOWN FLAGSHIP,  LED Lamp  ,Home & Kitchen,2.0,$208.67,  customer203@example.com  ,CASH
+TXN10453,25-Aug-2024, Sunset Center ,Face Moisturizer,Beauty,8.0,$33.01,,cash
+TXN10119,20-Feb-2024,Westfield Mall,PHONE CHARGER,Electronics,1.0,83,CUSTOMER119@EXAMPLE.COM,
+TXN10021,02-Aug-2024,SUNSET CENTER,PUZZLE SET,Toys,1.0,156.75 USD,CUSTOMER21@EXAMPLE.COM,CASH
+TXN10402,2024-10-22, Westfield Mall ,  LED Lamp  ,Home & Kitchen,8.0,207,customer402@example.com,Credit Card
+TXN10434,2024/09/11,riverside plaza,STUFFED BEAR,Toys,3.0,$155.50,,credit card
+TXN10083,25-Aug-2024,s003,stuffed bear,Toys,4.0,163.67,customer83@example.com,CASH
+TXN10130,2024/03/14,S003,SUNSCREEN SPF50,Beauty,3.0,238.43 USD,,cash
+TXN10473,2024-04-21,s005,Wireless Earbuds,Electronics,2.0,$18.94,  customer473@example.com  ,
+TXN10322,2024-05-04,s004,  Lip Balm  ,Beauty,4.0,226.60,  customer322@example.com  ,CASH
+TXN10329,2024/01/03, Downtown Flagship ,Lip Balm,Beauty,3.0,35.19 USD,CUSTOMER329@EXAMPLE.COM,cash
+TXN10229,2024/03/29,S005,Winter Jacket,Apparel,7.0,94.53,,credit card
+TXN10289,2024-07-15,S004,GRANOLA BARS,Grocery,7.0,241.51,,Debit Card
+TXN10286,2024-10-25,harbor point,RC CAR,Toys,2.0,120,,cash
+TXN10123,2024-08-28,s005,stuffed bear,Toys,1.0,100.66 USD,customer123@example.com,CASH
+TXN10033,01-Jan-2024,SUNSET CENTER,OLIVE OIL,Grocery,5.0,104.49 USD,  customer33@example.com  ,cash
+,,,,,,,,
+TXN10004,2024-04-29,westfield mall,  Wireless Earbuds  ,Electronics,5.0,246.38 USD,CUSTOMER4@EXAMPLE.COM,CASH
+TXN10411,05/25/2024,s001,  Hand Cream  ,Beauty,5.0,46.73,customer411@example.com,cash
+TXN10019,05/31/2024,S005,LED Lamp,Home & Kitchen,8.0,42.93,customer19@example.com,Debit Card
+TXN10219,08/07/2024,downtown flagship,  Lip Balm  ,Beauty,7.0,58.37 USD,,Debit Card
+TXN10379,19-May-2024,s004,  Non-stick Pan  ,Home & Kitchen,4.0,131.57,CUSTOMER379@EXAMPLE.COM,credit card
+TXN10067,29-May-2024,westfield mall,organic coffee,Grocery,8.0,$233.50,  customer67@example.com  ,Debit Card
+TXN10419,14-Jan-2024,S002,stuffed bear,Toys,4.0,62,,credit card
+TXN10356,2024-02-24, Riverside Plaza ,  Building Blocks  ,Toys,3.0,104.75,,Debit Card
+TXN10149,2024/09/17,s005,  RC Car  ,Toys,6.0,129.29,,CASH
+TXN10224,2024-02-22,HARBOR POINT,  Bluetooth Speaker  ,Electronics,2.0,$184.04,  customer224@example.com  ,credit card
+TXN10247,2024-02-08,S001,PASTA PACK,Grocery,5.0,230,CUSTOMER247@EXAMPLE.COM,Credit Card
+TXN10470,2024/06/30, Downtown Flagship ,  Cutting Board  ,Home & Kitchen,2.0,229.84 USD,customer470@example.com,CASH
+TXN10151,2024-05-04, Harbor Point ,Hand Cream,Beauty,3.0,206,,cash
+TXN10090,2024-04-23,s005,  Cutting Board  ,Home & Kitchen,2.0,115.74,customer90@example.com,cash
+TXN10317,05/08/2024, Riverside Plaza ,granola bars,Grocery,1.0,8.18 USD,CUSTOMER317@EXAMPLE.COM,
+TXN10490,01/03/2024,Downtown Flagship,Green Tea,Grocery,5.0,90.22,,Debit Card
+TXN10291,25-Sep-2024,riverside plaza,PHONE CHARGER,Electronics,8.0,183,,credit card
+TXN10233,05-Mar-2024,s005,Pasta Pack,Grocery,5.0,45.91,,cash
+TXN10010,09/16/2024,Downtown Flagship,  Wool Socks  ,Apparel,5.0,211.21,,cash
+TXN10279,2024-09-19,s002,Shampoo,Beauty,5.0,$164.64,CUSTOMER279@EXAMPLE.COM,Debit Card
+TXN10071,2024-06-18,harbor point,Shampoo,Beauty,1.0,36,customer71@example.com,
+TXN10252,04/29/2024,S004,NON-STICK PAN,Home & Kitchen,6.0,192.88 USD,customer252@example.com,credit card
+TXN10092,28-Sep-2024,sunset center,stuffed bear,Toys,6.0,98.32,CUSTOMER92@EXAMPLE.COM,cash
+TXN10249,2024-03-17, Westfield Mall ,COFFEE MAKER,Home & Kitchen,5.0,74,  customer249@example.com  ,Debit Card
+TXN10349,26-Oct-2024,RIVERSIDE PLAZA,led lamp,Home & Kitchen,2.0,42.92 USD,  customer349@example.com  ,credit card
+TXN10415,07/14/2024,harbor point,RUNNING SHOES,Apparel,3.0,27,,Debit Card
+TXN10374,2024-03-28,S004,  Running Shoes  ,Apparel,3.0,37.16 USD,  customer374@example.com  ,cash
+TXN10400,12-Jan-2024, Westfield Mall ,PHONE CHARGER,Electronics,4.0,215,,credit card
+TXN10192,2024-02-24,S002,  Winter Jacket  ,Apparel,7.0,82.59 USD,customer192@example.com,credit card
+TXN10257,2024/03/30,SUNSET CENTER,  Coffee Maker  ,Home & Kitchen,6.0,59.69,  customer257@example.com  ,Debit Card
+TXN10168,2024-06-25, Westfield Mall ,Non-stick Pan,Home & Kitchen,2.0,16.10,  customer168@example.com  ,Credit Card
+TXN10339,05/14/2024,sunset center,non-stick pan,Home & Kitchen,5.0,209.54,,cash
+TXN10072,15-May-2024, Westfield Mall ,winter jacket,Apparel,2.0,120.03 USD,  customer72@example.com  ,CASH
+TXN10195,10-Aug-2024,harbor point,  Throw Pillow  ,Home & Kitchen,3.0,20.50,,CASH
+TXN10343,05/12/2024, Sunset Center ,building blocks,Toys,3.0,18.70,,Credit Card
+TXN10137,2024/03/07, Westfield Mall ,RC Car,Toys,3.0,$193.11,,credit card
+TXN10260,2024/09/09,HARBOR POINT,granola bars,Grocery,3.0,222,CUSTOMER260@EXAMPLE.COM,credit card
+TXN10038,2024/05/21,s003,GRANOLA BARS,Grocery,4.0,210.77,,credit card
+TXN10462,02/10/2024,s005,  Non-stick Pan  ,Home & Kitchen,8.0,240.63,customer462@example.com,credit card
+TXN10201,23-Jul-2024,westfield mall,Running Shoes,Apparel,,142.99 USD,CUSTOMER201@EXAMPLE.COM,Debit Card
+TXN10497,10/10/2024,S005,puzzle set,Toys,3.0,147,CUSTOMER497@EXAMPLE.COM,Debit Card
+TXN10290,25-Jun-2024,Downtown Flagship,Cotton T-Shirt,Apparel,4.0,60.44 USD,CUSTOMER290@EXAMPLE.COM,Credit Card
+TXN10448,2024/02/17,S001,hand cream,Beauty,8.0,144,  customer448@example.com  ,credit card
+TXN10189,03-Oct-2024,westfield mall,WOOL SOCKS,Apparel,7.0,170.87,,Credit Card
+TXN10251,16-Oct-2024,sunset center,  LED Lamp  ,Home & Kitchen,8.0,89.29 USD,CUSTOMER251@EXAMPLE.COM,Credit Card
+TXN10112,06/17/2024,s003,Building Blocks,Toys,7.0,163,,Credit Card
+TXN10437,01/15/2024,Riverside Plaza,  Lip Balm  ,Beauty,7.0,182,  customer437@example.com  ,Credit Card
+TXN10183,01/05/2024, Westfield Mall ,olive oil,Grocery,2.0,178,  customer183@example.com  ,Credit Card
+TXN10152,2024-08-29,s002,WINTER JACKET,Apparel,7.0,127.95 USD,  customer152@example.com  ,Debit Card
+TXN10312,2024/05/30,Riverside Plaza,SHAMPOO,Beauty,7.0,241.08 USD,,
+TXN10325,2024-01-20,S001,Bluetooth Speaker,Electronics,8.0,180.63 USD,customer325@example.com,Debit Card
+TXN10191,2024/10/26,S004,  Cutting Board  ,Home & Kitchen,7.0,50.51,customer191@example.com,CASH
+TXN10044,06/28/2024,s005,Organic Coffee,Grocery,1.0,249.98,customer44@example.com,credit card
+TXN10444,06/08/2024,DOWNTOWN FLAGSHIP,ORGANIC COFFEE,Grocery,5.0,10.51 USD,,cash
+TXN10275,09/20/2024,S004,  Winter Jacket  ,Apparel,6.0,206,CUSTOMER275@EXAMPLE.COM,Debit Card
+TXN10006,18-Apr-2024,Riverside Plaza,cotton t-shirt,Apparel,7.0,71,CUSTOMER6@EXAMPLE.COM,CASH
+TXN10250,08/02/2024,s001,ORGANIC COFFEE,Grocery,5.0,98.84,  customer250@example.com  ,
+TXN10311,2024-03-06,westfield mall,  Green Tea  ,Grocery,3.0,184,  customer311@example.com  ,Debit Card
+TXN10075,07/14/2024,westfield mall,SHAMPOO,Beauty,3.0,24.35 USD,  customer75@example.com  ,CASH
+TXN10000,2024-03-12,s001,Face Moisturizer,Beauty,5.0,65.00,customer0@example.com,Credit Card
+TXN10428,03/08/2024,S003,  LED Lamp  ,Home & Kitchen,,34,  customer428@example.com  ,Debit Card
+TXN10391,2024/02/02,Sunset Center,rc car,Toys,4.0,$83.57,,CASH
+TXN10383,2024/05/07,downtown flagship,LED LAMP,Home & Kitchen,2.0,243.78,CUSTOMER383@EXAMPLE.COM,cash
+TXN10432,2024-08-06,RIVERSIDE PLAZA,throw pillow,Home & Kitchen,7.0,205.96 USD,,Debit Card
+TXN10068,2024/05/21,WESTFIELD MALL,  Winter Jacket  ,Apparel,3.0,216.69 USD,,Debit Card
+TXN10167,2024/07/31, Downtown Flagship ,Board Game,Toys,8.0,37.33 USD,customer167@example.com,cash
+TXN10366,04/10/2024,s002,LIP BALM,Beauty,7.0,214.80,CUSTOMER366@EXAMPLE.COM,cash
+TXN10345,07/16/2024,S004,Lip Balm,Beauty,2.0,61,CUSTOMER345@EXAMPLE.COM,Debit Card
+TXN10398,08-Aug-2024, Riverside Plaza ,RC CAR,Toys,7.0,$192.23,  customer398@example.com  ,Debit Card
+TXN10185,26-Sep-2024,WESTFIELD MALL,  USB Cable  ,Electronics,4.0,52.02,,cash
+TXN10348,2024-01-03, Sunset Center ,Phone Charger,Electronics,7.0,68,CUSTOMER348@EXAMPLE.COM,
+TXN10211,09/05/2024,Downtown Flagship,green tea,Grocery,6.0,238,  customer211@example.com  ,
+TXN10047,2024-03-02,DOWNTOWN FLAGSHIP,shampoo,Beauty,5.0,213.32,,Credit Card
+TXN10196,10-Mar-2024,S005,winter jacket,Apparel,4.0,117,,cash
+TXN10175,07/28/2024,SUNSET CENTER,led lamp,Home & Kitchen,6.0,176,CUSTOMER175@EXAMPLE.COM,credit card

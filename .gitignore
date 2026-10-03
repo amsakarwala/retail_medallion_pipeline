@@ -1,0 +1,23 @@
+# secrets
+.env
+.env.example
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# generated pipeline outputs (keep the folder structure via .gitkeep, not the data)
+data/bronze/*
+data/silver/*
+data/gold/*
+data/profiles/*
+data/traces/*
+data/audit/*
+data/reports/*
+data/state/*
+!data/*/.gitkeep
+
+# keep the raw demo CSVs though, if you want them in the repo
+# (comment the next 3 lines out if you'd rather regenerate them via the script)

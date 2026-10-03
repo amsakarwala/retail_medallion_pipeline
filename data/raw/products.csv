@@ -1,0 +1,31 @@
+product_id,product_name,category,supplier
+P001,Wireless Earbuds,Electronics,Initech
+P002,Bluetooth Speaker,Electronics,Globex Inc
+P003,Phone Charger,Electronics,Umbrella Supplies
+P004,Smart Watch,Electronics,Acme Co
+P005,USB Cable,Electronics,Umbrella Supplies
+P006,Cotton T-Shirt,Apparel,Umbrella Supplies
+P007,Denim Jeans,Apparel,Globex Inc
+P008,Running Shoes,Apparel,Umbrella Supplies
+P009,Winter Jacket,Apparel,Globex Inc
+P010,Wool Socks,Apparel,Initech
+P011,Non-stick Pan,Home & Kitchen,Umbrella Supplies
+P012,Coffee Maker,Home & Kitchen,Acme Co
+P013,Throw Pillow,Home & Kitchen,Acme Co
+P014,LED Lamp,Home & Kitchen,Umbrella Supplies
+P015,Cutting Board,Home & Kitchen,Initech
+P016,Organic Coffee,Grocery,Acme Co
+P017,Olive Oil,Grocery,Initech
+P018,Pasta Pack,Grocery,Umbrella Supplies
+P019,Granola Bars,Grocery,Initech
+P020,Green Tea,Grocery,Globex Inc
+P021,Building Blocks,Toys,Acme Co
+P022,Puzzle Set,Toys,Initech
+P023,RC Car,Toys,Acme Co
+P024,Board Game,Toys,Initech
+P025,Stuffed Bear,Toys,Acme Co
+P026,Face Moisturizer,Beauty,Acme Co
+P027,Shampoo,Beauty,Umbrella Supplies
+P028,Lip Balm,Beauty,Initech
+P029,Sunscreen SPF50,Beauty,Umbrella Supplies
+P030,Hand Cream,Beauty,Acme Co
